@@ -1,1 +1,2 @@
--- Add your SQL here
+SELECT * FROM EMPOLYEE
+WHERE DATE LIKE '%2%';
